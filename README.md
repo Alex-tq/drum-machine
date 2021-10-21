@@ -1,3 +1,6 @@
+
+[Click here to the see the live website](https://alex-tq.github.io/drum-machine/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
